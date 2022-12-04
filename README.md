@@ -1,7 +1,8 @@
 <div id="header" align="left">
   <h1>
-    Hey there! Hello
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there! Hi
+    <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,
+    I'm Kirill
   </h1>
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="400"/>
 </div>
